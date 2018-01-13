@@ -10,14 +10,14 @@
  *                                          when "enableServerManagement is set to false
  */
 const buildConfig = {
-  defaultTeams: [/*
+  defaultTeams: [
     {
-      name: 'example',
-      url: 'https://example.com'
-    }*/
+      name: 'Jser',
+      url: 'http://jser.im'
+    }
   ],
-  helpLink: 'https://about.mattermost.com/default-desktop-app-documentation/',
-  enableServerManagement: true
+  helpLink: 'https://about.jser.im/default-desktop-app-documentation/',
+  enableServerManagement: false
 };
 
 module.exports = buildConfig;

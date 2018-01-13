@@ -1,5 +1,5 @@
 {
-  "appId": "com.mattermost.desktop",
+  "appId": "im.jser.jim",
   "directories": {
     "buildResources": "resources",
     "app": "src",
@@ -22,12 +22,12 @@
   ],
   "protocols": [
     {
-      "name": "Mattermost",
-      "schemes": ["mattermost"]
+      "name": "Jim",
+      "schemes": ["jim"]
     }
   ],
   "deb": {
-    "synopsis": "Mattermost"
+    "synopsis": "Jim"
   },
   "linux": {
     "category": "InstantMessaging",

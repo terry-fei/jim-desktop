@@ -5,16 +5,16 @@
 const defaultPreferences = {
   version: 1,
   teams: [],
-  showTrayIcon: false,
+  showTrayIcon: true,
   trayIconTheme: 'light',
-  minimizeToTray: false,
+  minimizeToTray: true,
   notifications: {
     flashWindow: 0,
     bounceIcon: false,
     bounceIconType: 'informational'
   },
   showUnreadBadge: true,
-  useSpellChecker: true,
+  useSpellChecker: false,
   spellCheckerLocale: 'en-US'
 };
 

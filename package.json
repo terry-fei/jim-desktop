@@ -1,10 +1,10 @@
 {
-  "name": "mattermost-desktop",
-  "productName": "Mattermost",
+  "name": "jim-desktop",
+  "productName": "Jim",
   "version": "3.7.1",
-  "description": "Mattermost",
+  "description": "Just for Jser",
   "main": "main.js",
-  "author": "Mattermost, Inc. <feedback@mattermost.com>",
+  "author": "Jser, Inc. <feedback@jser.club>",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=4.2.0"
