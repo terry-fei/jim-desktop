@@ -10,10 +10,10 @@ const defaultPreferences = {
   minimizeToTray: true,
   notifications: {
     flashWindow: 0,
-    bounceIcon: false,
+    bounceIcon: true,
     bounceIconType: 'informational'
   },
-  showUnreadBadge: true,
+  showUnreadBadge: false,
   useSpellChecker: false,
   spellCheckerLocale: 'en-US'
 };

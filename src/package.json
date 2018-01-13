@@ -1,12 +1,12 @@
 {
-  "name": "mattermost-desktop",
-  "productName": "Mattermost",
-  "desktopName": "Mattermost.desktop",
+  "name": "jim-desktop",
+  "productName": "Jim",
+  "desktopName": "Jim.desktop",
   "version": "3.7.1",
-  "description": "Mattermost",
+  "description": "Just for Jser",
   "main": "main_bundle.js",
-  "author": "Mattermost, Inc. <feedback@mattermost.com>",
-  "homepage": "https://about.mattermost.com",
+  "author": "Jser, Inc. <feedback@jser.club>",
+  "homepage": "https://about.jser.club",
   "license": "Apache-2.0",
   "dependencies": {
     "auto-launch": "^5.0.1",
